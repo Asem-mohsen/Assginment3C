@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|c:\\users\\user\\source\\repos\\assignment4\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|c:\\users\\user\\source\\repos\\assignment4\\assignment4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|c:\\users\\user\\source\\repos\\assignment4\\assignment4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2578F02F-177E-42A5-8A63-CF77255D8B9C}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Point.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Point.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Point.cs*",
+              "RelativeToolTip": "Assignment4\\Point.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:54:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Person.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Person.cs",
+              "RelativeToolTip": "Assignment4\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:39:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Assignment4\\Assignment4\\Program.cs*",
+              "RelativeToolTip": "Assignment4\\Program.cs*",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:31:54.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
